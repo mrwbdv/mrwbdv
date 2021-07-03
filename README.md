@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Gmail Badge](https://img.shields.io/badge/-mrwbdv@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mrwbdv@gmail.com)](mailto:mrwbdv@gmail.com) 
+
+[![Github Badge](https://img.shields.io/badge/-mrwbdv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mrwbdv/)](https://www.github.com/mrwbdv/) 
+
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=mrwbdv alt=mrwbdv /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mrwbdv&show_icons=true&include_all_commits=true)](https://github.com/mrwbdv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwbdv&layout=compact)](https://github.com/mrwbdv/github-readme-stats)
+
